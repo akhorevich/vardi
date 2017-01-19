@@ -15,6 +15,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import nortti.ru.vardicall.MainActivity;
+import nortti.ru.vardicall.MyToast;
 import nortti.ru.vardicall.Number;
 
 public class CallReceiver extends BroadcastReceiver {
@@ -39,8 +40,8 @@ public class CallReceiver extends BroadcastReceiver {
                         long numberStr = number.getPhone();
                         if (incoming.contains(String.valueOf(numberStr))){
                             Log.d(TAG,number.getName() + " is calling");
-                            String msg = "Here is calling " + number.getName() + " from " + incoming + " number";
-                            MainActivity.getInstace().update(msg);
+                            String msg = number.getName();
+                            MyToast.show(context, msg, number.getPhone());
                         }
 
 
