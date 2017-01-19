@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_4d78ae38598edd9baa74d03591bed29bb8da4ce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_8994bdd14911a1df7043efc5af2a5b4b425582c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_39ad3ce5ec5873ac6f2746fea492a3424705d74b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.0/e70040568b2929b8e5869ad1ffca8e4386dc53bc/greendao-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70040568b2929b8e5869ad1ffca8e4386dc53bc">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/greendao-3.2.0_3e069fcb39574cea4877058f601bef84971166a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_fbe0fe48fc8eabc1f3573711b7276d051b46d784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_910e86b036e7d8bce11229d9c83e88d2186aceb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_4881aee4c0c96680bf31ca2f201e9d3e09d44935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_edefcfeca277b1babf389a6d7975c350a009c14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_93b20626045bcf5f95aff41940742f759cf3617d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_7e5623fe7a09b89afc530e73b2f0b2780e60f723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_4e99c079fcb75dcc7dd86e6ba502bd4cd7b2cfc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_c77cefdca02a1f078f236b0d9ab10b3441ad6998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_d7e857feb3b8eb4a5dc124fb15d30bb3b8c50eaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_b4c530b2ad3a1c18ad7acda76bd0487a0f1b9d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3eb648aeaaa0f276bde62a37da0067710bab15b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_8c5b98c9431fcfa89151f5ff00eac54d2034a2c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_4a3e7da69295be38520d7d1aebc2d334364e7238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_4ddbb7851a8bd29b4e19d228bd7ec192b4717651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.0/c6d610abe1d75d758431c9234917a349abc0a0ac/greendao-api-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6d610abe1d75d758431c9234917a349abc0a0ac">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/greendao-api-3.2.0_d16f4e098029ebfa7efec196aff475167fa741ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nortti/VardiCall/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/nortti/VardiCall/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_28ce8e6ffa029481ac7211d3b83c11f6db981811.jar" />
+    </item>
+
+</items>

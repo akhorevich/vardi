@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6560974990",
+    "firebase_url": "https://skeleton-52349169.firebaseio.com",
+    "project_id": "skeleton-52349169",
+    "storage_bucket": "skeleton-52349169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6560974990:android:03b99d5a07420a52",
+        "android_client_info": {
+          "package_name": "nortti.ru.vardicall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6560974990-eu93b15vbh3tduv4n954hnfn60m0cu9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nortti.ru.vardicall",
+            "certificate_hash": "6C264E2F789B5E2D4F2C5440507B279E05A4B76E"
+          }
+        },
+        {
+          "client_id": "6560974990-mq01v10er7aj61eek23drmqdg0lglj3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzXrvvdhbpt8topy4o3d8ccysLk8kzIJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6560974990-mq01v10er7aj61eek23drmqdg0lglj3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
