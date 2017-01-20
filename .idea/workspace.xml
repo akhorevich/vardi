@@ -15,40 +15,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_analytics_10_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/firebase_analytics_10_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_analytics_impl_10_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/firebase_analytics_impl_10_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_core_10_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/firebase_core_10_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_database_10_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/firebase_database_10_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_basement_10_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_basement_10_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_tasks_10_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_tasks_10_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nortti/ru/vardicall/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/nortti/ru/vardicall/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nortti/ru/vardicall/Utils/CallReceiver.java" afterPath="$PROJECT_DIR$/app/src/main/java/nortti/ru/vardicall/Utils/CallReceiver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/custom_view.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="vardi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,19 +96,19 @@
       <file leaf-file-name="CallReceiver.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/nortti/ru/vardicall/Utils/CallReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="89" column="58" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
+            <state relative-caret-position="298">
+              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding>
-                <element signature="e#2316#4373#0" expanded="true" />
-                <element signature="e#4372#4373#0" expanded="true" />
-                <element signature="e#4947#4948#0" expanded="true" />
-                <element signature="e#4986#4987#0" expanded="true" />
-                <element signature="e#5036#5037#0" expanded="true" />
-                <element signature="e#5084#5085#0" expanded="true" />
-                <element signature="e#5122#5123#0" expanded="true" />
-                <element signature="e#5160#5161#0" expanded="true" />
-                <element signature="e#5210#5211#0" expanded="true" />
-                <element signature="e#5256#5257#0" expanded="true" />
+                <element signature="e#2322#4535#0" expanded="true" />
+                <element signature="e#4534#4535#0" expanded="true" />
+                <element signature="e#5109#5110#0" expanded="true" />
+                <element signature="e#5148#5149#0" expanded="true" />
+                <element signature="e#5198#5199#0" expanded="true" />
+                <element signature="e#5246#5247#0" expanded="true" />
+                <element signature="e#5284#5285#0" expanded="true" />
+                <element signature="e#5322#5323#0" expanded="true" />
+                <element signature="e#5372#5373#0" expanded="true" />
+                <element signature="e#5418#5419#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2262,6 +2232,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="Nexus_5_API_22" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="nortti.ru.vardicall" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="DEBUGGER_ID" value="Auto" />
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -2465,7 +2439,7 @@
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5801012" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5801012" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2478,7 +2452,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2504,12 +2478,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/nortti/ru/vardicall/Utils/CallReceiver.java</url>
-          <line>86</line>
+          <line>84</line>
           <properties />
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -2546,16 +2520,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2316#4373#0" expanded="true" />
-            <element signature="e#4372#4373#0" expanded="true" />
-            <element signature="e#4947#4948#0" expanded="true" />
-            <element signature="e#4986#4987#0" expanded="true" />
-            <element signature="e#5036#5037#0" expanded="true" />
-            <element signature="e#5084#5085#0" expanded="true" />
-            <element signature="e#5122#5123#0" expanded="true" />
-            <element signature="e#5160#5161#0" expanded="true" />
-            <element signature="e#5210#5211#0" expanded="true" />
-            <element signature="e#5256#5257#0" expanded="true" />
+            <element signature="e#2322#4535#0" expanded="true" />
+            <element signature="e#4534#4535#0" expanded="true" />
+            <element signature="e#5109#5110#0" expanded="true" />
+            <element signature="e#5148#5149#0" expanded="true" />
+            <element signature="e#5198#5199#0" expanded="true" />
+            <element signature="e#5246#5247#0" expanded="true" />
+            <element signature="e#5284#5285#0" expanded="true" />
+            <element signature="e#5322#5323#0" expanded="true" />
+            <element signature="e#5372#5373#0" expanded="true" />
+            <element signature="e#5418#5419#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2611,19 +2585,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/nortti/ru/vardicall/Utils/CallReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="89" column="58" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
+        <state relative-caret-position="298">
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding>
-            <element signature="e#2316#4373#0" expanded="true" />
-            <element signature="e#4372#4373#0" expanded="true" />
-            <element signature="e#4947#4948#0" expanded="true" />
-            <element signature="e#4986#4987#0" expanded="true" />
-            <element signature="e#5036#5037#0" expanded="true" />
-            <element signature="e#5084#5085#0" expanded="true" />
-            <element signature="e#5122#5123#0" expanded="true" />
-            <element signature="e#5160#5161#0" expanded="true" />
-            <element signature="e#5210#5211#0" expanded="true" />
-            <element signature="e#5256#5257#0" expanded="true" />
+            <element signature="e#2322#4535#0" expanded="true" />
+            <element signature="e#4534#4535#0" expanded="true" />
+            <element signature="e#5109#5110#0" expanded="true" />
+            <element signature="e#5148#5149#0" expanded="true" />
+            <element signature="e#5198#5199#0" expanded="true" />
+            <element signature="e#5246#5247#0" expanded="true" />
+            <element signature="e#5284#5285#0" expanded="true" />
+            <element signature="e#5322#5323#0" expanded="true" />
+            <element signature="e#5372#5373#0" expanded="true" />
+            <element signature="e#5418#5419#0" expanded="true" />
           </folding>
         </state>
       </provider>

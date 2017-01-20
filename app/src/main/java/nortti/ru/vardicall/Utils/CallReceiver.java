@@ -37,8 +37,8 @@ public class CallReceiver extends BroadcastReceiver {
     PhoneStateListener listener;
     Context context;
     Number mNumber;
-    String nameStr;
-    long phoneStr;
+    String nameString;
+    long phoneString;
     public static final String TAG = CallReceiver.class.getSimpleName();
 
     @Override
@@ -84,9 +84,11 @@ public class CallReceiver extends BroadcastReceiver {
                                 public void onDataChange(DataSnapshot dataSnapshot) {
                                     for (DataSnapshot snapshot : dataSnapshot.getChildren()){
                                         mNumber = snapshot.getValue(Number.class);
-                                        if (incoming.contains(String.valueOf(mNumber.getPhone()))){
-                                            dialog.setNameStr(mNumber.getName());
-                                            dialog.setPhoneStr(mNumber.getPhone());
+                                        if (incoming.contains(String.valueOf(String.valueOf(mNumber.getPhone())))){
+                                            nameString = mNumber.getName();
+                                            phoneString = mNumber.getPhone();
+                                            dialog.setNameStr(nameString);
+                                            dialog.setPhoneStr(phoneString);
                                             dialog.show();
                                         }
 
@@ -158,10 +160,16 @@ public class CallReceiver extends BroadcastReceiver {
             setContentView(R.layout.custom_view);
 
             TextView name = (TextView) findViewById(R.id.text_info);
-            name.setText(getNameStr());
+            if (nameString != null){
+                name.setText(getNameStr());
+
+            }
 
             TextView phone = (TextView) findViewById(R.id.text_phone);
-            phone.setText(String.valueOf(getPhoneStr()));
+            if (phoneString != 0){
+                phone.setText(String.valueOf(getPhoneStr()));
+
+            }
 
 
         }
